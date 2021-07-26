@@ -1,0 +1,7 @@
+c:\users\afonso dumbo\documents\visual studio 2012\Projects\Conversor de moeda\Conversor de moeda\bin\Debug\Conversor de moeda.exe.config
+c:\users\afonso dumbo\documents\visual studio 2012\Projects\Conversor de moeda\Conversor de moeda\bin\Debug\Conversor de moeda.exe
+c:\users\afonso dumbo\documents\visual studio 2012\Projects\Conversor de moeda\Conversor de moeda\bin\Debug\Conversor de moeda.pdb
+c:\users\afonso dumbo\documents\visual studio 2012\Projects\Conversor de moeda\Conversor de moeda\obj\Debug\Conversor de moeda.exe
+c:\users\afonso dumbo\documents\visual studio 2012\Projects\Conversor de moeda\Conversor de moeda\obj\Debug\Conversor de moeda.pdb
+C:\Users\AFONSO DUMBO\Documents\Visual Studio 2012\Projects\Conversor de moeda\Conversor de moeda\obj\Debug\Conversor de moeda.csprojAssemblyReference.cache
+C:\Users\AFONSO DUMBO\Documents\Visual Studio 2012\Projects\Conversor de moeda\Conversor de moeda\obj\Debug\Conversor de moeda.csproj.CoreCompileInputs.cache
